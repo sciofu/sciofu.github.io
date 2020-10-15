@@ -1,0 +1,11 @@
+icon-contact-transparent {
+    display:flex;
+    height:5rem;
+    width:5rem;
+    align-items:center;
+    justify-content:center;
+    font-size:2rem;
+    background-color:none;
+    color:#fff;
+    border-radius:100%
+}
